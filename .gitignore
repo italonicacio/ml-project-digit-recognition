@@ -1,0 +1,5 @@
+/src/ml_models/__pycache__
+
+*.txt
+/data/redu*
+
