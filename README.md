@@ -1,5 +1,12 @@
 # Reconhecimento de Digitos
 
-A ideia desse trabalho é fazer o processamento dos dados,
+A ideia desse trabalho é fazer o processamento dos dados, transformar uma imagem 28x28 em dados de intensidade e simetria.
 
-<embed src="Mini-Projeto_-_Reconhecimento_de_Dgitos.pdf" type="application/pdf">
+## Modelos de aprendizagem de maquina
+
+Durante o desenvolvimento do trabalho foi implementado 3 modelos de aprendizagem de maquina.
+
+ - PLA(Perceptron Learning Algorithm)
+ - Regressão Linear
+ - Regressão Logistica 
+
